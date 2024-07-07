@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AdriDavidQ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+        # FRONTEND DEVELOPER #
+
+        -SOY NUEVO EN GITHUB-
+        
+- 👋 Hola soy @AdriDavidQ
+- 👀 Estoy muy enteresado en el mundo de la tecnologia.
+- 🌱 Me Gusta la naturaleza.
+- 💞️ Me gusta trabajar en grupo.
+- 📫 Adri.Dev
+- ⚡ Soy deportista de gravedad - SKATEDOWNHILL 
 
 <!---
 AdriDavidQ/AdriDavidQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
